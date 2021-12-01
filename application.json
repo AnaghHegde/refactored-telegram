@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "isPublic": false,
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#F4FFDE",
+  "icon": "airplane",
+  "slug": "test",
+  "evaluationVersion": 2,
+  "createdAt": {
+    "seconds": 1638348775,
+    "nanos": 961000000
+  },
+  "deleted": false,
+  "policies": [],
+  "userPermissions": [
+    "manage:applications",
+    "canComment:applications",
+    "export:applications",
+    "read:applications",
+    "publish:applications",
+    "makePublic:applications"
+  ]
+}
