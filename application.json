@@ -12,5 +12,14 @@
     "seconds": 1638345234,
     "nanos": 830000000
   },
-  "deleted": false
+  "deleted": false,
+  "policies": [],
+  "userPermissions": [
+    "manage:applications",
+    "canComment:applications",
+    "export:applications",
+    "read:applications",
+    "publish:applications",
+    "makePublic:applications"
+  ]
 }
