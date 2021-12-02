@@ -1,4 +1,5 @@
-# refactored-telegram![](https://raw.githubusercontent.com/appsmithorg/appsmith/release/static/appsmith_logo_primary.png)
+
+![](https://raw.githubusercontent.com/appsmithorg/appsmith/release/static/appsmith_logo_primary.png)
 
 This app is built using Appsmith. Turn any datasource into an internal app in minutes. Appsmith lets you drag-and-drop components to build dashboards, write logic with JavaScript objects and connect to any API, database or GraphQL source.
 
@@ -8,4 +9,4 @@ This app is built using Appsmith. Turn any datasource into an internal app in mi
 
 ##### You can visit the application using the below link
 
-###### [![](https://s3.us-east-2.amazonaws.com/assets.appsmith.com/git-sync/Buttons.svg) ](https://dev.appsmith.com/61a72a124436375a2351e044/applications/pages/61a72a124436375a2351e047) [![](https://s3.us-east-2.amazonaws.com/assets.appsmith.com/git-sync/Buttons2.svg)](https://dev.appsmith.com/61a72a124436375a2351e044/applications/pages/61a72a124436375a2351e047/edit)
+###### [![](https://s3.us-east-2.amazonaws.com/assets.appsmith.com/git-sync/Buttons.svg) ](https://dev.appsmith.comapplications/61a737e77319de414f8207cc/pages/61a737e87319de414f8207cf) [![](https://s3.us-east-2.amazonaws.com/assets.appsmith.com/git-sync/Buttons2.svg)](https://dev.appsmith.comapplications/61a737e77319de414f8207cc/pages/61a737e87319de414f8207cf/edit)
